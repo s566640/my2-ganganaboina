@@ -31,5 +31,15 @@ In this section i am going to create a table on atleast 4 kinds of sports that i
 
 >"The good thing about science is that it's true whether or not you believe in it." *Neil deGrasse Tyson*
 *******
+------
+# Code Fencing
+``````
+some
+  <br />
+  text
+</button>
 
+<input type="button" value="some&#13;&#10;text" />
+
+<input type="button" value="some&#x00A;text" />
 
