@@ -19,11 +19,11 @@ Tirupathi is a **Beautiful city in Andhra Pradesh** It's famous for the Tirumala
 *****
 In this section i am going to create a table on atleast 4 kinds of sports that i would recommend some try.Below table address the value of the sport and hours have to spend.
 
-| Sport|Reason i recommend|Hours  in  weak|
-|------------------------------------------------------------
-|Cricket          | agility and fitness          |3
-|Football         |teamwork and coordination     |2
-|Basketball       |perfect for over all fitness  |4
-|Tennis           |stress relife                 |3
+| Sport |  Reason i recommend | Hours  in  weak |
+| --- | --- | --- |
+| Cricket  | agility and fitness          | 3 |
+|Football  |teamwork and coordination     | 2 |
+|Basketbal |perfect for over all fitness  | 4 |
+|Tennis    |stress relife                 | 3 |
 
 
